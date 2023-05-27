@@ -46,7 +46,7 @@ const Home = () => {
 
         {movies && <Movieslist movies={movies} title="Drama movies"/>}
 
-
+            {/* <h1>hello</h1> */}
 
         </div>
      );
